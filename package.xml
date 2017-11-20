@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>iiwa_description</name>
+  <name>iit-iiwa-ros-pkg</name>
   <version>0.1.0</version>
   <description>The iwa_description package contains the model of a KUKA IIWA 7/14 arm.</description>
 
